@@ -6,8 +6,6 @@
 //   ixtisas: "Programming",
 //   kurs: 2,
 
-const { use } = require("react");
-
 //   tam_ad() {
 //     return `${this.name} ${this.surname}`;
 //   },
