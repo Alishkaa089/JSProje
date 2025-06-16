@@ -12,7 +12,7 @@
 
 //   mezun_ili() {
 //     const hazirkiil = new Date().getFullYear();
-//     const qalanKursIli = 4 - this.kurs;
+//     const qalanKursIli = 4 - this.kurs
 //     return hazirkiil + qalanKursIli;
 //   }
 // };
@@ -33,7 +33,7 @@
 // const movcudMehsullar = məhsullar.filter(m => m.mövcuddur);
 // console.log("Movcud mehsullar:", movcudMehsullar);
 
-// const ucuzMehsullar = məhsullar.filter(m => m.qiymət < 500);
+// const ucuzMehsullar = məhsullar.filter(m => m.qiymət < 500)
 // console.log("Qiymeti 500-den az mehsullar:", ucuzMehsullar);
 
 
@@ -48,9 +48,9 @@
 // const kateqoriyaSay = {};
 // məhsullar.forEach(m => {
 //   if (kateqoriyaSay[m.kateqoriya]) {
-//     kateqoriyaSay[m.kateqoriya]++;
+//     kateqoriyaSay[m.kateqoriya]++
 //   } else {
-//     kateqoriyaSay[m.kateqoriya] = 1;
+//     kateqoriyaSay[m.kateqoriya] = 1
 //   }
 // });
 // console.log("Kateqoriya uzre say:", kateqoriyaSay);
@@ -64,7 +64,7 @@
 
 //   emanet(mebleg) {
 //     this.balans += mebleg;
-//     this.emeliyyat_tarixi.push(`Emanet: +${mebleg} AZN`);
+//     this.emeliyyat_tarixi.push(`Emanet: +${mebleg} AZN`)
 //   },
 
 //   cixaris(mebleg) {
